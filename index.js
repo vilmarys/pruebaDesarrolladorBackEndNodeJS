@@ -50,7 +50,8 @@ app.post("/test", (req, res) => { //endpoit using HTTP method POST
         }
 
     }); //req: mando el array de numeros
-
+    
+//
 
 
 })
